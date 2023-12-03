@@ -15,4 +15,4 @@
 
 <h2>gif</h2>
 
-![](jobsearch.gif)
+<img src="./public/jobsearch.gif"/>
